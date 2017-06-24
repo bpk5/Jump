@@ -129,7 +129,6 @@ public class Jump extends ApplicationAdapter {
 		if(Gdx.input.justTouched()) {
 			player.jump();
 		}
-		// to jest test +
 	}
 
 	@Override
